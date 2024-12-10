@@ -1,0 +1,4 @@
+#+begin_src ruby
+require 'date'
+"This file was last evaluated on #{Date.today}"
+#+end_src
